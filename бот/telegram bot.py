@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler, Job
 from datetime import time
 
 # Путь к папке с картинками
-IMAGES_DIR = 'images'
+IMAGES_DIR = 'Images'
 
 # Время для отправки картинок (12:00)
 SEND_TIME = time(12, 0)
