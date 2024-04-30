@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # Замените TOKEN на ваш токен бота
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = '6333542917:AAGdh5BBimRhs-I7zuty1dfr2GIzhodv8PQ'
 
 # Функция-обработчик для команды /start
 def start(update: Update, context: CallbackContext) -> None:
